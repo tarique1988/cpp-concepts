@@ -1,0 +1,6 @@
+*.o
+*.win
+*.layout
+*.exe
+*_private.*
+*.ico
