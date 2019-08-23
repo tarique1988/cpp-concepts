@@ -4,4 +4,5 @@
 1. Output with <code>std::cout</code>.
 2. Input and Output with <code>std::cin</code> and <code>std::cout</code> respectively.
 3. Math operations on integer and floating point numbers.
-4. Loops: for, nested-for, for..in, while, and do-while.  
+4. Loops: for, nested-for, for..in, while, and do-while.
+5. if->else, if-else-if, switch-case, condition ? val_if_true : val_if_false.
